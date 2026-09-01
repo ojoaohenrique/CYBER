@@ -10,11 +10,11 @@ $ whoami
 
 $ cat objectives.txt
 
-[+] Linux
-[+] Networking
-[+] Web Security
-[+] Python
-[+] CTF
-[+] Malware Analysis
+##[+] Linux
+##[+] Networking
+##[+] Web Security
+##[+] Python
+##[+] CTF
+##[+] Malware Analysis
 
 STATUS: ONLINE
