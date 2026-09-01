@@ -3,9 +3,6 @@
 
 
 
-**Só não coloque as três crases internas como parte do bloco acima** — no seu `README.md`, começa com ` ```text ` e termina com ` ``` `.
-
-Se quiser uma versão **mais hacker/cyberpunk**, eu faria:
 
 ```text
 ┌──[ BIG JOHN TECH ]──────────────────────────────┐
@@ -13,7 +10,7 @@ Se quiser uma versão **mais hacker/cyberpunk**, eu faria:
 │  $ whoami                                       │
 │                                                 │
 │  > BIG JOHN                                     │
-│  > Cybersecurity Student                       │
+│  > Cybersecurity Student                        │
 │  > Developer                                    │
 │  > Security Enthusiast                          │
 │                                                 │
